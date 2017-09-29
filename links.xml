@@ -6,13 +6,15 @@ Fondo fútbol: https://imgur.com/a/14cxi
 
 -->
 
-
 <SetViewMode>504</SetViewMode>
 
 <item>
 <title>####### Arenavision #######</title>
-<info> Canales de Arenavisión</info>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+<info> Canales de Arenavisión
+	
+	<element><![CDATA[<p>http://dixibit.com/arenavision/</p>]]></element>
+	</info>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -40,6 +42,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+
+<!--
 <item>
 <title>[COLOR deepskyblue][B] Canales Arenavision  [COLOR aquamarine][I]Opcion 2[/I] [/COLOR][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -252,6 +259,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
+-->
 </item>
 
