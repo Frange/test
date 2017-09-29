@@ -11,8 +11,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 <item>
 <title>####### Arenavision #######</title>
 <info> Canales de Arenavisión
-	
-	<element><![CDATA[<p>http://dixibit.com/arenavision/</p>]]></element>
+	<element>&lt;p&gt;http://dixibit.com/arenavision/&lt;p&gt;</element>
 	</info>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision</link>
 			<regex>
