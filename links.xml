@@ -43,7 +43,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<!--
 <item>
 <title>[COLOR deepskyblue][B] Canales Arenavision  [COLOR aquamarine][I]Opcion 2[/I] [/COLOR][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -253,11 +252,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>	
 
 
-
-
-
-</item>
-
-
--->
 
