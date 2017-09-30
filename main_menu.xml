@@ -8,6 +8,9 @@ Fondo fútbol: https://imgur.com/a/14cxi
 FANART:               https://github.com/Frange/test/raw/master/fanart.jpg
 ACESTREAMS:           https://github.com/Frange/test/raw/master/acestreams.jpg
 
+SOURCES = [{"url": "https://github.com/Frange/test/raw/master/main_menu.xml", "fanart": "https://github.com/Frange/test/raw/master/fanart.jpg"}]
+
+
 -->
 
 
