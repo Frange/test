@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!-- 
+PROGRAMACIÓN: http://dixibit.com/arenavision/
+http://www.lpl.arizona.edu/~lemmon/rac/black.jpg
+Fondo fútbol: https://imgur.com/a/14cxi
+
+FANART:               https://github.com/Frange/test/raw/master/fanart.jpg
+ACESTREAMS:           https://github.com/Frange/test/raw/master/acestreams.jpg
+
+-->
+
+
+<!-- ################################# EMPIEZA EL MENÚ ################################################## -->
+
+<item>
+  <title>[COLOR white]  DEPORTES (Arenavisión)[/COLOR] </title>
+  <link>http://ignorame</link>
+  <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+  <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
+  <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
+  <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
+</item>
+
