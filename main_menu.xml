@@ -63,8 +63,8 @@ class="auto-style3".*?".*?>(.*?)<
 
 
 <item>
-  <title>AGENDA ARENAVISION 3</title>
-  <link>$doregex[agenda]</link>
+  <title>AGENDA ARENAVISION 4</title>
+  <info>$doregex[agenda]</info>
 	<regex>
 		<name>agenda</name>
 		<listrepeat><![CDATA[
