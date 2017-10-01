@@ -59,7 +59,7 @@ SOURCES = [{"url": "https://github.com/Frange/test/raw/master/main_menu.xml", "f
 
 
 <item>
-  <title>AGENDA ARENAVISION</title>
+  <title>AGENDA ARENAVISION 1</title>
   <link>http://ignorame</link>
   <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
