@@ -30,10 +30,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 			]]>		
 		</listrepeat>
 		<expres>
-			<![CDATA[
-				href="\/(.*?)".*?>
-				(Arena.*?)<
-			]>
+			<![CDATA[href="\/(.*?)".*?>(Arena.*?)<]>
 		</expres>
 		<page>http://arenavision2017.tk</page>
 		<Agent>Mozilla</Agent>
