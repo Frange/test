@@ -10,6 +10,10 @@ ACESTREAMS:           https://github.com/Frange/test/raw/master/acestreams.jpg
 
 SOURCES = [{"url": "https://github.com/Frange/test/raw/master/main_menu.xml", "fanart": "https://github.com/Frange/test/raw/master/fanart.jpg"}]
 
+REGEX: 
+
+href="\/(.*?)".*?>(Ar.*?)<
+class="auto-style3".*?".*?>(.*?)<
 
 -->
 
@@ -43,7 +47,7 @@ SOURCES = [{"url": "https://github.com/Frange/test/raw/master/main_menu.xml", "f
 			<referer>http://arenavision2017.tk</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
- <thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+ <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[href="\/(.*?)".*?>(Ar.*?)<]]></expres>
@@ -52,40 +56,28 @@ SOURCES = [{"url": "https://github.com/Frange/test/raw/master/main_menu.xml", "f
 <referer>http://arenavision2017.tk</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
- <thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+ <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 </item>
 
 
 
 
 <item>
-  <title>AGENDA ARENAVISION 1</title>
-  <link>http://ignorame</link>
-  <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
-  <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
-  <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
-  <info>$doregex[makeagenda]</info>
+  <title>AGENDA ARENAVISION 2</title>
+  <link>$doregex[agenda]</link>
 	<regex>
-		<name>makeagenda</name>
+		<name>agenda</name>
 		<listrepeat><![CDATA[
-			<item><title> [COLOR skyblue] [makelist.param2][/COLOR]</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
-						<regex>
-						<name>hash</name> 
-						<expres>this.loadPlayer\("(.*?)"</expres>
-						<page>http://arenavision2017.tk/[makelist.param1]</page>
-						<referer>http://arenavision2017.tk</referer>
-						<setcookie>beget=begetok</setcookie>
-						</regex>
-			 <thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
-			</item>	
-			]]>
-		</listrepeat>
-		<expres><![CDATA[class="auto-style3".*?".*?>(.*?)<]]></expres>
-		<page>http://arenavision2017.tk/iguide</page>
+		<item><title> [COLOR skyblue] [agenda.param1][/COLOR]</title>
+		 <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		</item>	
+		]]></listrepeat>
+		<expres><![CDATA[href="\/(.*?)".*?>(Ar.*?)<]]></expres>
+		<page>http://arenavision2017.tk</page>
 		<Agent>Mozilla</Agent>
-		<referer>http://arenavision2017.tk/iguide</referer>
+		<referer>http://arenavision2017.tk</referer>
 		<setcookie>beget=begetok</setcookie>
 	</regex>
+ <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 </item>
 
