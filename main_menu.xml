@@ -28,7 +28,7 @@ class="auto-style3".*?".*?>(.*?)<
 
 
 <item>
-<title>[COLOR deepskyblue][B] Canales Arenavision  [COLOR aquamarine][I]Opcion 2[/I] [/COLOR][/B][/COLOR]</title>
+<<title>[COLOR white]  DEPORTES (Arenavisión)2[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
