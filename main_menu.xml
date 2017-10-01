@@ -63,14 +63,15 @@ class="auto-style3".*?".*?>(.*?)<
 
 
 <item>
-  <title>AGENDA ARENAVISION 4</title>
+  <title>[COLOR deepskyblue][B] AGENDA ARENAVISION [COLOR aquamarine][I]Opcion 2[/I] [/COLOR][/B][/COLOR]</title>
   <info>$doregex[agenda]</info>
 	<regex>
 		<name>agenda</name>
-		<listrepeat><![CDATA[
-		<item><title> hola[COLOR skyblue] [agenda.param1][/COLOR]</title>
-		</item>	
-		]]></listrepeat>
+		<listrepeat>
+			<item>
+				<title> hola[COLOR skyblue] [agenda.param2][/COLOR]</title>
+			</item>	
+		</listrepeat>
 		<expres><![CDATA[href="\/(.*?)".*?>(Ar.*?)<]]></expres>
 		<page>http://arenavision2017.tk</page>
 		<Agent>Mozilla</Agent>
