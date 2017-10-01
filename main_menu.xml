@@ -10,10 +10,8 @@ SOURCES = [{"url": "https://github.com/Frange/test/raw/master/main_menu.xml", "f
 REGEX: 
 href="\/(.*?)".*?>(Ar.*?)<
 class="auto-style3".*?".*?>(.*?)<
--->
 
 
-<!-- ################################# EMPIEZA EL MENÚ ################################################## -->
 
 <item>
   <title>[COLOR white]  DEPORTES (Arenavisión)1[/COLOR] </title>
@@ -24,11 +22,15 @@ class="auto-style3".*?".*?>(.*?)<
   <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
 </item>
 
+-->
+<!-- ################################# EMPIEZA EL MENÚ ################################################## -->
+
+
 
 
 
 <item>
-<<title>[COLOR white]  DEPORTES (Arenavisión)2[/COLOR] </title>
+<<title>[COLOR white]  DEPORTES (Arenavisión)[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
