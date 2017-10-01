@@ -9,7 +9,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 <item>
 	<title>####### Arenavision #######</title>
 	<info> DEPORTES EN CASA</info>
-	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Todo en casa</link>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList</link>
 		<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
