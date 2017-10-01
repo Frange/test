@@ -8,7 +8,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 
 
 <item>
-	<title>[COLOR deepskyblue][B] Canales Arenavision JM3[/B][/COLOR]</title>
+	<title>[COLOR deepskyblue][B] Canales Arenavision JM[/B][/COLOR]</title>
 	<link>$doregex[makelist]</link>
 	<regex>
 		<name>makelist</name>
@@ -52,7 +52,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 
 
 
-
+<!--
 
 
 <item>
@@ -218,6 +218,4 @@ Fondo fútbol: https://imgur.com/a/14cxi
 </item>	
 
 
-
-
-
+-->
