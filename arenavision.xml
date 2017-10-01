@@ -8,7 +8,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 
 
 <item>
-	<title>[COLOR deepskyblue][B] Canales Arenavision JM1[/B][/COLOR]</title>
+	<title>[COLOR deepskyblue][B] Canales Arenavision JM2[/B][/COLOR]</title>
 	<link>$doregex[makelist]</link>
 	<regex>
 		<name>makelist</name>
@@ -18,7 +18,6 @@ Fondo fútbol: https://imgur.com/a/14cxi
 				<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
 					<regex>
 						<name>hash</name> 
-
 						<expres>this.loadPlayer\("(.*?)"</expres>
 						<page>http://arenavision2017.tk/[makelist.param1]</page>
 						<referer>http://arenavision2017.tk</referer>
@@ -30,7 +29,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 			]]>		
 		</listrepeat>
 		<expres>
-			<![CDATA[href="\/(.*?)".*?>(Arena.*?)<]>
+			<![CDATA[href="\/(.*?)".*?>(A.*?)<]>
 		</expres>
 		<page>http://arenavision2017.tk</page>
 		<Agent>Mozilla</Agent>
