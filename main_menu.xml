@@ -63,13 +63,12 @@ class="auto-style3".*?".*?>(.*?)<
 
 
 <item>
-  <title>AGENDA ARENAVISION 2</title>
+  <title>AGENDA ARENAVISION 3</title>
   <link>$doregex[agenda]</link>
 	<regex>
 		<name>agenda</name>
 		<listrepeat><![CDATA[
-		<item><title> [COLOR skyblue] [agenda.param1][/COLOR]</title>
-		 <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<item><title> hola[COLOR skyblue] [agenda.param1][/COLOR]</title>
 		</item>	
 		]]></listrepeat>
 		<expres><![CDATA[href="\/(.*?)".*?>(Ar.*?)<]]></expres>
