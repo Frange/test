@@ -25,3 +25,32 @@ SOURCES = [{"url": "https://github.com/Frange/test/raw/master/main_menu.xml", "f
   <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
 </item>
 
+
+
+
+<item>
+<title>[COLOR deepskyblue][B] Canales Arenavision  [COLOR aquamarine][I]Opcion 2[/I] [/COLOR][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR skyblue] [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/[makelist.param1]</page>
+			<referer>http://arenavision2017.tk</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+ <thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="\/(.*?)".*?>(Ar.*?)<]]></expres>
+<page>http://arenavision2017.tk</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+ <thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+</item>
