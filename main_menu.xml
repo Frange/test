@@ -54,3 +54,24 @@ SOURCES = [{"url": "https://github.com/Frange/test/raw/master/main_menu.xml", "f
 </regex>
  <thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
 </item>
+
+
+
+
+<item>
+  <title>AGENDA ARENAVISION</title>
+  <link>http://ignorame</link>
+  <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+  <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
+  <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
+  <info>$doregex[makeagenda]</info>
+	<regex>
+		<name>makeagenda</name>
+		<expres><![CDATA[class="auto-style3".*?".*?>(.*?)<]]></expres>
+		<page>http://arenavision2017.tk/iguide</page>
+		<Agent>Mozilla</Agent>
+		<referer>http://arenavision2017.tk/iguide</referer>
+		<setcookie>beget=begetok</setcookie>
+	</regex>
+</item>
+
