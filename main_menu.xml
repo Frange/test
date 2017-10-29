@@ -7,8 +7,11 @@ Fondo fútbol: https://imgur.com/a/14cxi
 FANART:               https://github.com/Frange/test/raw/master/fanart.jpg
 ACESTREAMS:           https://github.com/Frange/test/raw/master/acestreams.jpg
 SOURCES = [{"url": "https://github.com/Frange/test/raw/master/main_menu.xml", "fanart": "https://github.com/Frange/test/raw/master/fanart.jpg"}]
+
 REGEX: 
-href="\/(.*?)".*?>(Ar.*?)<
+
+https://regex101.com
+href="\/(\d.*?)".*?>(Ar.*?)<
 class="auto-style3".*?".*?>(.*?)<
 
 
@@ -47,7 +50,7 @@ class="auto-style3".*?".*?>(.*?)<
  <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[href="\/(.*?)".*?>(Ar.*?)<]]></expres>
+<expres><![CDATA[href="\/(\d.*?)".*?>(Ar.*?)<]]></expres>
 <page>http://arenavision2017.tk</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.tk</referer>
@@ -58,23 +61,3 @@ class="auto-style3".*?".*?>(.*?)<
 </item>
 
 
-
-
-<item>
-  <title>AGENDA ARENAVISION 2</title>
-  <link>$doregex[agenda]</link>
-	<regex>
-		<name>agenda</name>
-		<listrepeat><![CDATA[
-		<item><title> [COLOR skyblue] [agenda.param1][/COLOR]</title>
-		 <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
-		</item>	
-		]]></listrepeat>
-		<expres><![CDATA[href="\/(.*?)".*?>(Ar.*?)<]]></expres>
-		<page>http://arenavision2017.tk</page>
-		<Agent>Mozilla</Agent>
-		<referer>http://arenavision2017.tk</referer>
-		<setcookie>beget=begetok</setcookie>
-	</regex>
- <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
-</item>
