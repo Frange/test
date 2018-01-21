@@ -29,58 +29,29 @@ class="auto-style3".*?".*?>(.*?)<
 <!-- ################################# EMPIEZA EL MENÚ ################################################## -->
 
 
-
-
-
 <item>
-<title>[COLOR white]  DEPORTES (Arenavisión) 4[/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title> [COLOR skyblue] [makelist.param2][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.ga/[makelist.param1]</page>
-			<referer>http://arenavision2017.ga/</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
- <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+  <title>[COLOR gold]  DEPORTES (Arenavisión)[/COLOR] </title>
+  <link>http://ignorame</link>
+  <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+  <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
+  <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
+  <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
 </item>	
-]]></listrepeat>
-<expres><![CDATA[href="\/(\d.*?)".*?>(Ar.*?)<]]></expres>
-<page>http://arenavision2017.ga</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision2017.ga</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
- <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
-  <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
-</item>
-
-
-
 
 <item>
-	<title>[COLOR white]  DEPORTES (Arenavisión) jm[/COLOR] </title>
-		<link>href="acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8"</link>
-		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+  <title>[COLOR gold]  PELÍCULAS (AÚN NO DISPONIBLE)[/COLOR] </title>
+  <link>http://ignorame</link>
+  <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+  <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
+  <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
   <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
-</item>
-	
+</item>	
 
 <item>
-<title>[COLOR gold][B] Arenavision 1[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
-<regex>
-<name>hash</name>
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://arenavision2017.ga/01</page>
-<referer>http://arenavision2017.ga</referer>
-<setcookie>beget=begetok</setcookie>
-<thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av1.png</thumbnail>
-<fanart></fanart>
-</regex>
-</item>
+  <title>[COLOR gold]  SERIES (AÚN NO DISPONIBLE)[/COLOR] </title>
+  <link>http://ignorame</link>
+  <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+  <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
+  <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
+  <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
+</item>	
