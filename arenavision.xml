@@ -28,7 +28,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 			]]>		
 		</listrepeat>
 		<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
-		<page>http://arenavision2017.tk</page>
+		<page>http://arenavision.us</page>
 		<Agent>Mozilla</Agent>
 		<referer>http://arenavision2017.tk</referer>
 		<setcookie>beget=begetok</setcookie>
