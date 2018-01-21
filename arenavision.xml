@@ -6,6 +6,170 @@ Fondo fútbol: https://imgur.com/a/14cxi
 
 <SetViewMode>504</SetViewMode>
 
+<item>
+	<title>[COLOR white][B] Arenavision 1[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/01</page>
+		<referer>http://arenavision2017.ga</referer>
+		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+<item>
+	<title>[COLOR white][B] Arenavision 2[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/02</page>
+		<referer>http://arenavision2017.ga</referer>
+		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+<item>
+	<title>[COLOR white][B] Arenavision 3[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/03</page>
+		<referer>http://arenavision2017.ga</referer>
+		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+<item>
+	<title>[COLOR white][B] Arenavision 4[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/04</page>
+		<referer>http://arenavision2017.ga</referer>
+		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+<item>
+	<title>[COLOR white][B] Arenavision 5[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/05</page>
+		<referer>http://arenavision2017.ga</referer>
+		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+<item>
+	<title>[COLOR white][B] Arenavision 6[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/06</page>
+		<referer>http://arenavision2017.ga</referer>
+		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+<item>
+	<title>[COLOR white][B] Arenavision 7[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/07</page>
+		<referer>http://arenavision2017.ga</referer>
+		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+<item>
+	<title>[COLOR white][B] Arenavision 8[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/08</page>
+		<referer>http://arenavision2017.ga</referer>
+		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+<item>
+	<title>[COLOR white][B] Arenavision 9[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/09</page>
+		<referer>http://arenavision2017.ga</referer>
+		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+<item>
+	<title>[COLOR white][B] Arenavision 10[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/10</page>
+		<referer>http://arenavision2017.ga</referer>
+		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+<item>
+	<title>[COLOR white][B] Arenavision 11[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/11</page>
+		<referer>http://arenavision2017.ga</referer>
+		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+<item>
+	<title>[COLOR white][B] Arenavision 12[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/12</page>
+		<referer>http://arenavision2017.ga</referer>
+		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 
 <item>
 	<title>[COLOR deepskyblue][B] Canales Arenavision JM[/B][/COLOR]</title>
@@ -35,24 +199,6 @@ Fondo fútbol: https://imgur.com/a/14cxi
 	</regex>
 	<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
 
 
 <item>
