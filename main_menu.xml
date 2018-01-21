@@ -70,3 +70,17 @@ class="auto-style3".*?".*?>(.*?)<
   <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
 </item>
 	
+
+<item>
+<title>[COLOR gold][B] Arenavision 1[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision2017.ga/01</page>
+<referer>http://arenavision2017.ga</referer>
+<setcookie>beget=begetok</setcookie>
+<thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av1.png</thumbnail>
+<fanart></fanart>
+</regex>
+</item>
