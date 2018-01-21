@@ -65,7 +65,7 @@ class="auto-style3".*?".*?>(.*?)<
 
 <item>
 	<title>[COLOR white]  DEPORTES (Arenavisión) jm[/COLOR] </title>
-		<link>acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8</link>
+		<link>href="acestream://63d893d4db0f0c591436c7a88b6f6fc27e84a5b8"</link>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
   <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
 </item>
