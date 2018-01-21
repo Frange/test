@@ -33,7 +33,7 @@ class="auto-style3".*?".*?>(.*?)<
 
 
 <item>
-<<title>[COLOR white]  DEPORTES (Arenavisión)[/COLOR] </title>
+<<title>[COLOR white]  DEPORTES (Arenavisión) 2[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
