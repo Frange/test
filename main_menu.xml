@@ -30,34 +30,18 @@ class="auto-style3".*?".*?>(.*?)<
 
 <SetViewMode>504</SetViewMode>
 
-
 <item>
-	<title>[COLOR deepskyblue][B] Canales Arenavision JM[/B][/COLOR]</title>
-	<link>$doregex[makelist]</link>
-	<regex>
-		<name>makelist</name>
-		<listrepeat>
-			<![CDATA[
-				<item><title> [COLOR skyblue] [makelist.param2][/COLOR]</title>
-				<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
-					<regex>
-						<name>hash</name> 
-						<expres>this.loadPlayer\("(.*?)"</expres>
-						<page>http://arenavision2017.ga/[makelist.param1]</page>
-						<referer>http://arenavision2017.ga</referer>
-						<setcookie>beget=begetok</setcookie>
-					</regex>
-				 <thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
-				</item>
-			]]>		
-		</listrepeat>
-		<expres><![CDATA[href="\/(.*?)".*?>(A.*?)<]]></expres>
-		<page>http://arenavision2017.ga</page>
-		<Agent>Mozilla</Agent>
-		<referer>http://arenavision2017.ga</referer>
-		<setcookie>beget=begetok</setcookie>
-	</regex>
-	<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
+<title>[COLOR gold][B] Arenavision 1[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://arenavision2017.ga/01</page>
+<referer>http://arenavision2017.ga</referer>
+<setcookie>beget=begetok</setcookie>
+<thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av1.png</thumbnail>
+<fanart></fanart>
+</regex>
 </item>
 
 <item>
