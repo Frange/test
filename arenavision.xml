@@ -21,7 +21,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 <SetViewMode>504</SetViewMode>
 
 <item>
-	<title>[COLOR gold][B] Arenavision 1[/B][/COLOR]</title>
+	<title>[COLOR gold][B] Arenavision 11[/B][/COLOR]</title>
 	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
 	<regex>
 		<name>hash</name>
