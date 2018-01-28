@@ -6,6 +6,21 @@ Fondo fútbol: https://imgur.com/a/14cxi
 
 <SetViewMode>504</SetViewMode>
 
+
+<item>
+	<title>[COLOR gold][B] Arenavision 1[/B][/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+	<regex>
+		<name>hash</name>
+		<expres>this.loadPlayer\("(.*?)"</expres>
+		<page>http://arenavision2017.ga/01</page>
+		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
+		<thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av1.png</thumbnail>
+		<fanart></fanart>
+	</regex>
+</item>
+
 <item>
 	<title>[COLOR white][B] Arenavision 1[/B][/COLOR]</title>
 	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
@@ -14,6 +29,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 		<expres>this.loadPlayer\("(.*?)"</expres>
 		<page>http://arenavision2017.ga/01</page>
 		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
 	</regex>
@@ -26,6 +42,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 		<expres>this.loadPlayer\("(.*?)"</expres>
 		<page>http://arenavision2017.ga/02</page>
 		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
 	</regex>
@@ -38,6 +55,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 		<expres>this.loadPlayer\("(.*?)"</expres>
 		<page>http://arenavision2017.ga/03</page>
 		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
 	</regex>
@@ -50,6 +68,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 		<expres>this.loadPlayer\("(.*?)"</expres>
 		<page>http://arenavision2017.ga/04</page>
 		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
 	</regex>
@@ -62,6 +81,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 		<expres>this.loadPlayer\("(.*?)"</expres>
 		<page>http://arenavision2017.ga/05</page>
 		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
 	</regex>
@@ -74,6 +94,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 		<expres>this.loadPlayer\("(.*?)"</expres>
 		<page>http://arenavision2017.ga/06</page>
 		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
 	</regex>
@@ -86,6 +107,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 		<expres>this.loadPlayer\("(.*?)"</expres>
 		<page>http://arenavision2017.ga/07</page>
 		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
 	</regex>
@@ -98,6 +120,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 		<expres>this.loadPlayer\("(.*?)"</expres>
 		<page>http://arenavision2017.ga/08</page>
 		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
 	</regex>
@@ -110,6 +133,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 		<expres>this.loadPlayer\("(.*?)"</expres>
 		<page>http://arenavision2017.ga/09</page>
 		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
 	</regex>
@@ -122,6 +146,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 		<expres>this.loadPlayer\("(.*?)"</expres>
 		<page>http://arenavision2017.ga/10</page>
 		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
 	</regex>
@@ -134,6 +159,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 		<expres>this.loadPlayer\("(.*?)"</expres>
 		<page>http://arenavision2017.ga/11</page>
 		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
 	</regex>
@@ -146,6 +172,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 		<expres>this.loadPlayer\("(.*?)"</expres>
 		<page>http://arenavision2017.ga/12</page>
 		<referer>http://arenavision2017.ga</referer>
+		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
 	</regex>
