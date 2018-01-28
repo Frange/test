@@ -13,25 +13,10 @@ Fondo fútbol: https://imgur.com/a/14cxi
 
 -->
 
-<!DOCTYPE foods [
-  <!ENTITY baseurl "http://arenavision2017.ga/01">
-  <!ENTITY imageurl "http://www.sboeasy.com/assets/images/channel_mini_logo/">
-]>
-
 <SetViewMode>504</SetViewMode>
 
 <item>
-	<title>[COLOR gold][B] Arenavision 111[/B][/COLOR]</title>
-	<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
-	<regex>
-		<name>hash</name>
-		<expres>this.loadPlayer\("(.*?)"</expres>
-		<page>&baseurl;</page>
-		<referer>&baseurl;</referer>
-		<setcookie>beget=begetok</setcookie>
-		<thumbnail>&imageurl;av1.png</thumbnail>
-		<fanart></fanart>
-	</regex>
+	<title>[COLOR gold][B] LISTA ACTUALIZADA EL 28/01/2018 [/COLOR]</title>
 </item>
 
 <item>
