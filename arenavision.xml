@@ -21,8 +21,8 @@ Fondo fútbol: https://imgur.com/a/14cxi
 	<regex>
 		<name>hash</name>
 		<expres>this.loadPlayer\("(.*?)"</expres>
-		<page>http://arenavision2017.ga/01</page>
-		<referer>http://arenavision2017.ga</referer>
+		<page>http://arenavision.us/01</page>
+		<referer>http://arenavision.us</referer>
 		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
@@ -237,8 +237,8 @@ Fondo fútbol: https://imgur.com/a/14cxi
 	<regex>
 		<name>hash</name>
 		<expres>this.loadPlayer\("(.*?)"</expres>
-		<page>http://arenavision2017.ga/17</page>
-		<referer>http://arenavision2017.ga</referer>
+		<page>http://arenavision.us/17</page>
+		<referer>http://arenavision.us</referer>
 		<setcookie>beget=begetok</setcookie>
 		<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 		<fanart></fanart>
