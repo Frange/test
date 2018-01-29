@@ -26,17 +26,17 @@ Fondo fútbol: https://imgur.com/a/14cxi
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.tk/[makelist.param1]</page>
-			<referer>http://arenavision2017.tk</referer>
+			<page>arenavision.us/[makelist.param1]</page>
+			<referer>arenavision.us</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
  <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
 </item>	
 ]]></listrepeat>
 <expres><![CDATA[href="\/(\d.*?)".*?>(Ar.*?)<]]></expres>
-<page>http://arenavision2017.tk</page>
+<page>arenavision.us</page>
 <Agent>Mozilla</Agent>
-<referer>http://arenavision2017.tk</referer>
+<referer>arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
  <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
