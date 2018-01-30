@@ -1,1 +1,1 @@
-This is a private repository, just for educational purposes.
+This is a private repository, just for educational purposes only.
