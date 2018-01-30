@@ -14,8 +14,6 @@ https://regex101.com
 href="\/(\d.*?)".*?>(Ar.*?)<
 class="auto-style3".*?".*?>(.*?)<
 
-
-
 <item>
   <title>[COLOR white]  DEPORTES (Arenavisión)1[/COLOR] </title>
   <link>http://ignorame</link>
@@ -31,7 +29,7 @@ class="auto-style3".*?".*?>(.*?)<
 <SetViewMode>504</SetViewMode>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 19999[/B][/COLOR]</title>
+  <title>[COLOR gold][B] Arenavision 19[/B][/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
