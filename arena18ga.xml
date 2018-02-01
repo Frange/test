@@ -56,7 +56,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 05[/B][/COLOR]</title>
+  <title>[COLOR gold][B] Arenavision 5[/B][/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -70,7 +70,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 06[/B][/COLOR]</title>
+  <title>[COLOR gold][B] Arenavision 6[/B][/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
