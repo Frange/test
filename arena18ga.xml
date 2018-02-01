@@ -1,6 +1,6 @@
 
 <item>
-  <title>[COLOR gold][B] Arenavision 1[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 1[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -14,7 +14,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 2[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 2[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -28,7 +28,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 3[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 3[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -42,7 +42,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 4[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 4[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -56,7 +56,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 5[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 5[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -70,7 +70,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 6[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 6[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -84,7 +84,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 7[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 7[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -98,7 +98,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 8[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 8[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -112,7 +112,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 9[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 9[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -126,7 +126,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 10[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 10[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -140,7 +140,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 11[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 11[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -154,7 +154,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 12[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 12[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -168,7 +168,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 13[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 13[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -182,7 +182,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 14[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 14[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -196,7 +196,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 15[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 15[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -210,7 +210,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 16[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 16[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -224,7 +224,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 17[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 17[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -238,7 +238,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 18[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 18[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -252,7 +252,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 19[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 19[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -266,7 +266,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 20[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 20[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -280,7 +280,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 21[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 21[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -294,7 +294,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 22[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 22[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -308,7 +308,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 23[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 23[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -322,7 +322,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 24[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 24[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -336,7 +336,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 25[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 25[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -350,7 +350,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 26[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 26[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -364,7 +364,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 27[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 27[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -378,7 +378,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 28[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 28[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -392,7 +392,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 29[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 29[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -406,7 +406,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 30[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 30[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -420,7 +420,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 31[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 31[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -434,7 +434,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 32[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 32[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -448,7 +448,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 33[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 33[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -462,7 +462,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 34[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 34[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
@@ -476,7 +476,7 @@
 </item>
 
 <item>
-  <title>[COLOR gold][B] Arenavision 35[/B][/COLOR]</title>
+  <title>[COLOR gold]Arenavision 35[/COLOR]</title>
   <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
   <regex>
     <name>hash</name>
