@@ -40,7 +40,7 @@ class="auto-style3".*?".*?>(.*?)<
 <item>
   <title>[COLOR red] PRUEBAS (No entrar)[/COLOR] </title>
   <link>http://ignorame</link>
-  <thumbnail>https://github.com/Frange/test/raw/master/test.png</thumbnail>
+  <thumbnail>https://github.com/Frange/test/raw/master/test-tube.png</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
   <externallink>https://github.com/Frange/test/raw/master/arena.xml</externallink>
   <info>[B][COLOR white]No entrar, es sólo para pruebas[/COLOR][/B]</info>
@@ -49,7 +49,7 @@ class="auto-style3".*?".*?>(.*?)<
 <item>
   <title>[COLOR black]  PELÍCULAS (AÚN NO DISPONIBLE)[/COLOR] </title>
   <link>http://ignorame</link>
-  <thumbnail>https://github.com/Frange/test/raw/master/cross.jpg</thumbnail>
+  <thumbnail>https://github.com/Frange/test/raw/master/cross.png</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
   <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
   <info>[B][COLOR white]Canales de películas[/COLOR][/B]</info>
@@ -58,7 +58,7 @@ class="auto-style3".*?".*?>(.*?)<
 <item>
   <title>[COLOR black]  SERIES (AÚN NO DISPONIBLE)[/COLOR] </title>
   <link>http://ignorame</link>
-  <thumbnail>https://github.com/Frange/test/raw/master/cross.jpg</thumbnail>
+  <thumbnail>https://github.com/Frange/test/raw/master/cross.png</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
   <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
   <info>[B][COLOR white]Canales de series[/COLOR][/B]</info>
