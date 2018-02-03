@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-
-<!-- 
-PROGRAMACIÓN: http://dixibit.com/arenavision/
-http://www.lpl.arizona.edu/~lemmon/rac/black.jpg
-Fondo fútbol: https://imgur.com/a/14cxi
-
-<!DOCTYPE foods [
-  <!ENTITY url "http://arenavision2017.ga">
-]>
-
-&baseurl;
-
--->
-
+<SetViewMode>504</SetViewMode>
 <SetViewMode>504</SetViewMode>
 
 <item>
-	<title>[COLOR red]  DEPORTES (Arenavisión)[/COLOR] </title>
+	<title>[COLOR white]  DEPORTES (Arenavisión)[/COLOR] </title>
 	<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
@@ -42,7 +29,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 			
 			<expres>
 				<![CDATA[
-					href="acestream:\/\/(.*)"
+					href="acestream:\/\/(.*)()"
 				]]>
 			</expres>
 			
@@ -52,6 +39,6 @@ Fondo fútbol: https://imgur.com/a/14cxi
 			<setcookie>beget=begetok</setcookie>
 		</regex>
 	
-	<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
-	<info>[COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR]</info>
+	<thumbnail>https://github.com/Frange/test/raw/master/test-tube.png</thumbnail>
+	<info>[COLOR white]test[/COLOR]</info>
 </item>
