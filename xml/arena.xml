@@ -3,6 +3,7 @@
 
 
 
+
 <item>
 <title>[COLOR pink]Test 1 [/COLOR]</title>
 <link>$doregex[makelist]</link>
