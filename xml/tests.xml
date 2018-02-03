@@ -96,7 +96,14 @@
 </regex>
   <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
   <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
-
+  <info>$doregex[information]</info>
+			<regex>
+			<name>information</name> 
+			<expres>RUGBY</expres>
+			<page>http://acelisting.in</page>
+			<referer>http://acelisting.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
 	
 </item>
 
