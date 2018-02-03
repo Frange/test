@@ -16,30 +16,42 @@ Fondo fútbol: https://imgur.com/a/14cxi
 <SetViewMode>504</SetViewMode>
 
 <item>
-<<title>[COLOR white]  DEPORTES (Arenavisión)[/COLOR] </title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title> [COLOR skyblue] [makelist.param2][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>arenavision.us/[makelist.param1]</page>
-			<referer>arenavision.us</referer>
+	<title>[COLOR white]  DEPORTES (Arenavisión)[/COLOR] </title>
+	<link>$doregex[makelist]</link>
+		<regex>
+			<name>makelist</name>
+			
+			<listrepeat><![CDATA[
+				<item>
+					<title> [COLOR red] [makelist.param2][/COLOR]</title>
+					<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
+							<regex>
+								<name>hash</name> 
+								
+								<expres>
+									this.loadPlayer\("(.*?)"
+								</expres>
+								
+								<page>acelisting.in/[makelist.param1]</page>
+								<referer>acelisting.in</referer>
+								<setcookie>beget=begetok</setcookie>
+							</regex>
+					<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+				</item>	
+			]]></listrepeat>
+			
+			<expres>
+				<![CDATA[
+					href="acestream:\/\/(.*)"
+				]]>
+			</expres>
+			
+			<page>acelisting.in</page>
+			<Agent>Mozilla</Agent>
+			<referer>acelisting.in</referer>
 			<setcookie>beget=begetok</setcookie>
-			</regex>
- <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[href="\/(\d.*?)".*?>(Ar.*?)<]]></expres>
-<page>arenavision.us</page>
-<Agent>Mozilla</Agent>
-<referer>arenavision.us</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
- <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
-  <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
+		</regex>
+	
+	<thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+	<info>[COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR]</info>
 </item>
-
