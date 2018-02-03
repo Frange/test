@@ -33,13 +33,43 @@
 
 
 <item>
-<title>[COLOR pink]Test 5 [/COLOR]</title>
+<title>[COLOR pink]Test 2 [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title> [COLOR white] [makelist.param1][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports + [makelist.param1]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>href="acestream:\/\/(.*)"</expres>
+			<page>http://acelisting.in</page>
+			<referer>http://acelisting.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="acestream:\/\/.*"\s.*\s.*"(.*)<br.*\/>.*<br.*\/>Channel.*(.*)<br]]></expres>
+<page>http://acelisting.in</page>
+<Agent>Mozilla</Agent>
+<referer>http://acelisting.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR pink]Test 3 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR white] [makelist.param1] - Canal [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports + [makelist.param2]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>href="acestream:\/\/(.*)"</expres>
