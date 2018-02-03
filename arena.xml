@@ -16,7 +16,7 @@ Fondo fútbol: https://imgur.com/a/14cxi
 <SetViewMode>504</SetViewMode>
 
 <item>
-	<title>[COLOR white]  DEPORTES (Arenavisión)[/COLOR] </title>
+	<title>[COLOR red]  DEPORTES (Arenavisión)[/COLOR] </title>
 	<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
