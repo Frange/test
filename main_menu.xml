@@ -46,7 +46,7 @@ class="auto-style3".*?".*?>(.*?)<
   <link>http://ignorame</link>
   <thumbnail>https://github.com/Frange/test/raw/master/test-tube.png</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
-  <externallink>https://github.com/Frange/test/raw/master/arena.xml</externallink>
+  <externallink>https://raw.githubusercontent.com/Frange/test/master/arena.xml</externallink>
   <info>[B][COLOR white]No entrar, es sólo para pruebas[/COLOR][/B]</info>
 </item>	
 
