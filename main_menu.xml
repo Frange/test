@@ -8,7 +8,7 @@
   <link>http://ignorame</link>
   <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
   <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
-  <externallink>https://github.com/Frange/test/blob/master/xml/arena18ga.xml</externallink>
+  <externallink>https://github.com/Frange/test/raw/master/xml/arena18ga.xml</externallink>
   <info>[COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR]</info>
 </item>	
 
@@ -19,7 +19,7 @@
   <link>http://ignorame</link>
   <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/test-tube.png</thumbnail>
   <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
-  <externallink>https://github.com/Frange/test/blob/master/xml/arena.xml</externallink>
+  <externallink>https://github.com/Frange/test/raw/master/xml/arena.xml</externallink>
   <info>[B][COLOR white]No entrar, es sólo para pruebas[/COLOR][/B]</info>
 </item>	
 
