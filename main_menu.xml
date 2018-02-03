@@ -46,6 +46,19 @@ class="auto-style3".*?".*?>(.*?)<
   <info>[B][COLOR white]No entrar, es sólo para pruebas[/COLOR][/B]</info>
 </item>	
 
+
+
+<item>
+  <title>[COLOR red] PRUEBAS (No entrar)[/COLOR] </title>
+  <link>http://ignorame</link>
+  <thumbnail>https://github.com/Frange/test/raw/master/test-tube.png</thumbnail>
+  <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
+  <externallink>https://pastebin.com/raw/1GF1AR1Z</externallink>
+  <info>[B][COLOR white]No entrar, es sólo para pruebas[/COLOR][/B]</info>
+</item>	
+
+
+
 <item>
   <title>[COLOR gray]  PELÍCULAS (AÚN NO DISPONIBLE)[/COLOR] </title>
   <link>http://ignorame</link>
