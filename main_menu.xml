@@ -47,19 +47,19 @@ class="auto-style3".*?".*?>(.*?)<
 </item>	
 
 <item>
-  <title>[COLOR black]  PELÍCULAS (AÚN NO DISPONIBLE)[/COLOR] </title>
+  <title>[COLOR gray]  PELÍCULAS (AÚN NO DISPONIBLE)[/COLOR] </title>
   <link>http://ignorame</link>
   <thumbnail>https://github.com/Frange/test/raw/master/cross.png</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
-  <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
+  <externallink>http://ignorame</externallink>
   <info>[B][COLOR white]Canales de películas[/COLOR][/B]</info>
 </item>	
 
 <item>
-  <title>[COLOR black]  SERIES (AÚN NO DISPONIBLE)[/COLOR] </title>
+  <title>[COLOR gray]  SERIES (AÚN NO DISPONIBLE)[/COLOR] </title>
   <link>http://ignorame</link>
   <thumbnail>https://github.com/Frange/test/raw/master/cross.png</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
-  <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
+  <externallink>http://ignorame</externallink>
   <info>[B][COLOR white]Canales de series[/COLOR][/B]</info>
 </item>	
