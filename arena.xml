@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <SetViewMode>504</SetViewMode>
-<SetViewMode>504</SetViewMode>
 
 <item>
-	<title>[COLOR white]  TEST 1   [/COLOR] </title>
+	<title>[COLOR white]  TEST 2   [/COLOR] </title>
 	<link>$doregex[makelist]</link>
 		<regex>
 			<name>makelist</name>
 			
 			<listrepeat><![CDATA[
 				<item>
-					<title> [COLOR red] [makelist.param2][/COLOR]</title>
-					<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + [makelist.param2]</link>
+					<title> [COLOR red] Patata[/COLOR]</title>
+					<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + Patata</link>
 							<regex>
 								<name>hash</name> 
 								
 								<expres>
-									this.loadPlayer\("(.*?)"
+									href="acestream:\/\/(.*)"
 								</expres>
 								
 								<page>acelisting.in/[makelist.param1]</page>
@@ -29,7 +28,7 @@
 			
 			<expres>
 				<![CDATA[
-					href="acestream:\/\/(.*)()"
+					href="acestream:\/\/(.*)"
 				]]>
 			</expres>
 			
@@ -42,3 +41,11 @@
 	<thumbnail>https://github.com/Frange/test/raw/master/test-tube.png</thumbnail>
 	<info>[COLOR white]test[/COLOR]</info>
 </item>
+
+
+
+
+
+
+
+
