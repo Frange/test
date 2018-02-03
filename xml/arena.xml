@@ -94,6 +94,16 @@
 </regex>
   <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
   <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
-  <info>[COLOR white]Canales deportivos organizados por partidos.[/COLOR]</info>
+	
+	
+<info>[COLOR white] TEST : $doregex[info] [/COLOR]</info>
+<regex>
+	<name>info</name> 
+	<expres>(Compatible)</expres>
+	<page>http://acelisting.in</page>
+	<referer>http://acelisting.in</referer>
+	<setcookie>beget=begetok</setcookie>
+</regex>
+	
 </item>
 
