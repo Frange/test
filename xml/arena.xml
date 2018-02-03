@@ -69,7 +69,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title> [COLOR white] [makelist.param1] - Canal [makelist.param2][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports + [makelist.param2]</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Canal + [makelist.param2]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>href="acestream:\/\/(.*)"</expres>
