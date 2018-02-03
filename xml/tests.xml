@@ -93,10 +93,11 @@
 <Agent>Mozilla</Agent>
 <referer>http://acelisting.in</referer>
 <setcookie>beget=begetok</setcookie>
+	<info> HOLA [makelist.param1]</info>
 </regex>
   <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
   <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
-  <info> HOLA [makelist.param1]</info>
+  
 	
 </item>
 
