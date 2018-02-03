@@ -2,6 +2,7 @@
 <SetViewMode>504</SetViewMode>
 
 
+
 <item>
 <title>[COLOR pink]Test 1 [/COLOR]</title>
 <link>$doregex[makelist]</link>
