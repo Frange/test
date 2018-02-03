@@ -32,14 +32,17 @@
 </item>
 
 
+
+
+
 <item>
 <title>[COLOR pink]Test 2 [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title> [COLOR white] [makelist.param1][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports + [makelist.param1]</link>
+<item><title> [COLOR white] [makelist.param1] - Canal [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Canal + [makelist.param2]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>href="acestream:\/\/(.*)"</expres>
@@ -51,15 +54,17 @@
  <fanart></fanart>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[href="acestream:\/\/.*"\s.*\s.*"(.*)<br.*\/>.*<br.*\/>Channel.*(.*)<br]]></expres>
+<expres><![CDATA[href="acestream:\/\/.*"\s.*\s.*"(.*)<br.*\/>.*<br.*\/>Channel.(\d+)<br]]></expres>
 <page>http://acelisting.in</page>
 <Agent>Mozilla</Agent>
 <referer>http://acelisting.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
- <thumbnail></thumbnail>
- <fanart></fanart>
+  <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
+  <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
+  <info>[COLOR white]Canales deportivos organizados por partidos.[/COLOR]</info>
 </item>
+
 
 
 <item>
@@ -81,12 +86,14 @@
  <fanart></fanart>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[href="acestream:\/\/.*"\s.*\s.*"(.*)<br.*\/>.*<br.*\/>Channel.*(.*)<br]]></expres>
+<expres><![CDATA[href="acestream:\/\/.*"\s.*\s.*"(.*)<br.*\/>.*<br.*\/>Channel.(\d+)<br]]></expres>
 <page>http://acelisting.in</page>
 <Agent>Mozilla</Agent>
 <referer>http://acelisting.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
- <thumbnail></thumbnail>
- <fanart></fanart>
+  <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
+  <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
+  <info>[COLOR white]Canales deportivos organizados por partidos.[/COLOR]</info>
 </item>
+
