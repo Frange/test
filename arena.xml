@@ -1,48 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <SetViewMode>504</SetViewMode>
 
+
 <item>
-	<title>[COLOR white]  TEST 4   [/COLOR] </title>
-	<link>$doregex[makelist]</link>
-		<regex>
-			<name>makelist</name>
-			
-			<listrepeat><![CDATA[
-				<item>
-					<title> [COLOR red] Patata[/COLOR]</title>
-					<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist + Patata</link>
-							<regex>
-								<name>hash</name> 
-								
-								<expres>
-									href="acestream:\/\/(.*)"
-								</expres>
-								
-								<page>acelisting.in/</page>
-								<referer>acelisting.in</referer>
-								<setcookie>beget=begetok</setcookie>
-							</regex>
-					<thumbnail>https://github.com/Frange/test/raw/master/test-tube.png</thumbnail>
-				</item>	
-			]]></listrepeat>
-			
-			<expres>
-					href="acestream:\/\/(.*)"
-			</expres>
-			
-			<page>acelisting.in</page>
-			<Agent>Mozilla</Agent>
-			<referer>acelisting.in</referer>
+<title>[COLOR pink]Test 1 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR white] [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=ArenaSports + [makelist.param2]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>href="acestream:\/\/(.*)"</expres>
+			<page>http://acelisting.in</page>
+			<referer>http://acelisting.in</referer>
 			<setcookie>beget=begetok</setcookie>
-		</regex>
-	
-	<thumbnail>https://github.com/Frange/test/raw/master/test-tube.png</thumbnail>
-	<info>[COLOR white]test[/COLOR]</info>
+			</regex>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="acestream:\/\/(.*)(.*)"]]></expres>
+<page>http://acelisting.in</page>
+<Agent>Mozilla</Agent>
+<referer>http://acelisting.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
 </item>
-
-
-
-
-
-
-
