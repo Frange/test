@@ -70,7 +70,7 @@
 
 
 <item>
-<title>[COLOR pink]Test 3 [/COLOR]</title>
+<title>[COLOR pink]Test 33 [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
