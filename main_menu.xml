@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<!-- 
-PROGRAMACIÓN: http://dixibit.com/arenavision/
-http://www.lpl.arizona.edu/~lemmon/rac/black.jpg
-Fondo fútbol: https://imgur.com/a/14cxi
-FANART:               https://github.com/Frange/test/raw/master/fanart.jpg
-ACESTREAMS:           https://github.com/Frange/test/raw/master/acestreams.jpg
-SOURCES = [{"url": "https://github.com/Frange/test/raw/master/main_menu.xml", "fanart": "https://github.com/Frange/test/raw/master/fanart.jpg"}]
-
-REGEX: 
-
-https://regex101.com
-href="\/(\d.*?)".*?>(Ar.*?)<
-class="auto-style3".*?".*?>(.*?)<
-
-<item>
-  <title>[COLOR green]  DEPORTES (Arenavisión)1[/COLOR] </title>
-  <link>http://ignorame</link>
-  <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
-  <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
-  <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
-  <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
-</item>
-
--->
-<!-- ################################# EMPIEZA EL MENÚ ################################################## -->
-
 <SetViewMode>504</SetViewMode>
+
+
 
 <item>
   <title>[COLOR gold]  DEPORTES (Arenavisión)[/COLOR] </title>
@@ -39,8 +14,6 @@ class="auto-style3".*?".*?>(.*?)<
 
 
 
-
-
 <item>
   <title>[COLOR red] PRUEBAS (No entrar)[/COLOR] </title>
   <link>http://ignorame</link>
@@ -49,9 +22,6 @@ class="auto-style3".*?".*?>(.*?)<
   <externallink>https://raw.githubusercontent.com/Frange/test/master/xml/arena.xml</externallink>
   <info>[B][COLOR white]No entrar, es sólo para pruebas[/COLOR][/B]</info>
 </item>	
-
-
-
 
 
 
