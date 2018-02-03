@@ -33,7 +33,7 @@
 
 
 <item>
-<title>[COLOR pink]Test 2 [/COLOR]</title>
+<title>[COLOR pink]Test 3 [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -51,7 +51,7 @@
  <fanart></fanart>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[href="acestream:\/\/.*"\s.*\s.*"(.*)<br \/>.*<br.* \/>Channel (.*)<br]]></expres>
+<expres>href="acestream:\/\/.*"\s.*\s.*"(.*)<br.*\/>.*<br.*\/>Channel.*(.*)<br</expres>
 <page>http://acelisting.in</page>
 <Agent>Mozilla</Agent>
 <referer>http://acelisting.in</referer>
