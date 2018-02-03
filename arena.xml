@@ -27,9 +27,7 @@
 			]]></listrepeat>
 			
 			<expres>
-				<![CDATA[
 					href="acestream:\/\/(.*)"
-				]]>
 			</expres>
 			
 			<page>acelisting.in</page>
