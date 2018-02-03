@@ -38,28 +38,28 @@ class="auto-style3".*?".*?>(.*?)<
 </item>	
 
 <item>
-  <title>[COLOR white] (En pruebas)[/COLOR] </title>
+  <title>[COLOR red] PRUEBAS (No entrar)[/COLOR] </title>
   <link>http://ignorame</link>
-  <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
+  <thumbnail>https://github.com/Frange/test/raw/master/test.png</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
   <externallink>https://github.com/Frange/test/raw/master/arena.xml</externallink>
-  <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
+  <info>[B][COLOR white]No entrar, es sólo para pruebas[/COLOR][/B]</info>
 </item>	
 
 <item>
-  <title>[COLOR red]  PELÍCULAS (AÚN NO DISPONIBLE)[/COLOR] </title>
+  <title>[COLOR black]  PELÍCULAS (AÚN NO DISPONIBLE)[/COLOR] </title>
   <link>http://ignorame</link>
   <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
   <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
-  <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
+  <info>[B][COLOR white]Canales de películas[/COLOR][/B]</info>
 </item>	
 
 <item>
-  <title>[COLOR red]  SERIES (AÚN NO DISPONIBLE)[/COLOR] </title>
+  <title>[COLOR black]  SERIES (AÚN NO DISPONIBLE)[/COLOR] </title>
   <link>http://ignorame</link>
   <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
   <externallink>https://github.com/Frange/test/raw/master/arenavision.xml</externallink>
-  <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
+  <info>[B][COLOR white]Canales de series[/COLOR][/B]</info>
 </item>	
