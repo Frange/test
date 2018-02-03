@@ -4,7 +4,7 @@
 
 
 <item>
-  <title>[COLOR gold] 1 DEPORTES (Arenavisión)[/COLOR] </title>
+  <title>[COLOR gold] DEPORTES (Arenavisión)[/COLOR] </title>
   <link>http://ignorame</link>
   <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
   <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
@@ -14,12 +14,45 @@
 
 
 
+
+<item>
+<title>[COLOR pink]DEPORTES - (ORGANIZADO POR PARTIDOS) [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [COLOR white] [makelist.param1] - Canal [makelist.param2][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Canal + [makelist.param2]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>href="acestream:\/\/(.*)"</expres>
+			<page>http://acelisting.in</page>
+			<referer>http://acelisting.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[href="acestream:\/\/.*"\s.*\s.*"(.*)<br.*\/>.*<br.*\/>Channel.*(.*)<br]]></expres>
+<page>http://acelisting.in</page>
+<Agent>Mozilla</Agent>
+<referer>http://acelisting.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+</item>
+
+
+
+
 <item>
   <title>[COLOR red] PRUEBAS (No entrar)[/COLOR] </title>
   <link>http://ignorame</link>
   <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/test-tube.png</thumbnail>
   <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
-  <externallink>https://github.com/Frange/test/raw/master/xml/arena.xml</externallink>
+  <externallink>https://github.com/Frange/test/raw/master/xml/tests.xml</externallink>
   <info>[B][COLOR white]No entrar, es sólo para pruebas[/COLOR][/B]</info>
 </item>	
 
