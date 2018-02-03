@@ -31,10 +31,10 @@ class="auto-style3".*?".*?>(.*?)<
 <item>
   <title>[COLOR gold]  DEPORTES (Arenavisión)[/COLOR] </title>
   <link>http://ignorame</link>
-  <thumbnail>https://github.com/Frange/test/raw/master/acestreams.jpg</thumbnail>
-  <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
-  <externallink>https://github.com/Frange/test/raw/master/arena18ga.xml</externallink>
-  <info>[B][COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR][/B]</info>
+  <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
+  <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
+  <externallink>https://raw.githubusercontent.com/Frange/test/master/xml/arena18ga.xml</externallink>
+  <info>[COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR]</info>
 </item>	
 
 
@@ -44,9 +44,9 @@ class="auto-style3".*?".*?>(.*?)<
 <item>
   <title>[COLOR red] PRUEBAS (No entrar)[/COLOR] </title>
   <link>http://ignorame</link>
-  <thumbnail>https://github.com/Frange/test/raw/master/test-tube.png</thumbnail>
-  <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
-  <externallink>https://raw.githubusercontent.com/Frange/test/master/arena.xml</externallink>
+  <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/test-tube.png</thumbnail>
+  <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
+  <externallink>https://raw.githubusercontent.com/Frange/test/master/xml/arena.xml</externallink>
   <info>[B][COLOR white]No entrar, es sólo para pruebas[/COLOR][/B]</info>
 </item>	
 
@@ -59,8 +59,8 @@ class="auto-style3".*?".*?>(.*?)<
 <item>
   <title>[COLOR gray]  PELÍCULAS (AÚN NO DISPONIBLE)[/COLOR] </title>
   <link>http://ignorame</link>
-  <thumbnail>https://github.com/Frange/test/raw/master/red_config.png</thumbnail>
-  <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
+  <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/red_config.png</thumbnail>
+  <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
   <externallink>http://ignorame</externallink>
   <info>[B][COLOR white]Canales de películas[/COLOR][/B]</info>
 </item>	
@@ -68,7 +68,7 @@ class="auto-style3".*?".*?>(.*?)<
 <item>
   <title>[COLOR gray]  SERIES (AÚN NO DISPONIBLE)[/COLOR] </title>
   <link>http://ignorame</link>
-  <thumbnail>https://github.com/Frange/test/raw/master/red_config.png</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/red_config.png</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
   <externallink>http://ignorame</externallink>
   <info>[B][COLOR white]Canales de series[/COLOR][/B]</info>
