@@ -34,7 +34,7 @@
  <fanart></fanart>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[href="acestream:\/\/.*"\s.*\s.*"(.*)<br.*\/>.*<br.*\/>Channel.*(.*)<br]]></expres>
+<expres><![CDATA[href="acestream:\/\/.*"\s.*\s.*"(.*)<br.*\/>.*<br.*\/>Channel.(\d+)<br]]></expres>
 <page>http://acelisting.in</page>
 <Agent>Mozilla</Agent>
 <referer>http://acelisting.in</referer>
