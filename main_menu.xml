@@ -49,7 +49,7 @@ class="auto-style3".*?".*?>(.*?)<
 <item>
   <title>[COLOR gray]  PELÍCULAS (AÚN NO DISPONIBLE)[/COLOR] </title>
   <link>http://ignorame</link>
-  <thumbnail>https://github.com/Frange/test/raw/master/cross.png</thumbnail>
+  <thumbnail>https://github.com/Frange/test/raw/master/red_config.png</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
   <externallink>http://ignorame</externallink>
   <info>[B][COLOR white]Canales de películas[/COLOR][/B]</info>
@@ -58,7 +58,7 @@ class="auto-style3".*?".*?>(.*?)<
 <item>
   <title>[COLOR gray]  SERIES (AÚN NO DISPONIBLE)[/COLOR] </title>
   <link>http://ignorame</link>
-  <thumbnail>https://github.com/Frange/test/raw/master/cross.png</thumbnail>
+  <thumbnail>https://github.com/Frange/test/raw/master/red_config.png</thumbnail>
   <fanart>https://github.com/Frange/test/raw/master/fanart.jpg</fanart>
   <externallink>http://ignorame</externallink>
   <info>[B][COLOR white]Canales de series[/COLOR][/B]</info>
