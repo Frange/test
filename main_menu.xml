@@ -9,7 +9,7 @@
   <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
   <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
   <externallink>https://github.com/Frange/test/raw/master/xml/arena18ga.xml</externallink>
-  <info>[COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos[/COLOR]</info>
+  <info>[COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos.[/COLOR]</info>
 </item>	
 
 
@@ -17,7 +17,7 @@
 
 
 <item>
-<title>[COLOR pink]DEPORTES - (ORGANIZADO POR PARTIDOS) [/COLOR]</title>
+<title>[COLOR gold] DEPORTES - (POR PARTIDOS) [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -41,8 +41,9 @@
 <referer>http://acelisting.in</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
- <thumbnail></thumbnail>
- <fanart></fanart>
+  <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
+  <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
+  <info>[COLOR white]Canales deportivos organizados por partidos.[/COLOR]</info>
 </item>
 
 
