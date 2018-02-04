@@ -69,12 +69,12 @@
 
 
 <item>
-<title>[COLOR pink]Test 333 [/COLOR]</title>
+<title>[COLOR pink]Test 31 [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title> [COLOR white] [makelist.param1] - Canal [makelist.param2][/COLOR]</title>
+<item><title> [COLOR white] [makelist.param1][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Canal + [makelist.param2]</link>
 			<regex>
 			<name>hash</name> 
@@ -87,14 +87,14 @@
  <fanart></fanart>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[href="acestream:\/\/.*"\s.*\s.*"(.*)<br.*\/>.*<br.*\/>Channel.(\d+)<br]]></expres>
-<page>http://acelisting.in</page>
+<expres><![CDATA[<h4>([a-z]+.\d{2}\/\d{2}\/\d{4})<\/h4>]]></expres>
+<page>https://linkotes.com/arenavision</page>
 <Agent>Mozilla</Agent>
-<referer>http://acelisting.in</referer>
+<referer>https://linkotes.com/arenavision</referer>
 <setcookie>beget=begetok</setcookie>
 	<info> HOLA [makelist.param1]</info>
 </regex>
-  <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/test.jpg</thumbnail>
   <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
   
 	
