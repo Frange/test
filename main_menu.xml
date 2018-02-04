@@ -16,7 +16,7 @@
 
 
 <item>
-<title>[COLOR gold] DEPORTES - (POR PARTIDOS) [/COLOR]</title>
+<title>[COLOR red] DEPORTES - (POR PARTIDOS) [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
