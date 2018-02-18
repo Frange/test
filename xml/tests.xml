@@ -98,5 +98,38 @@
   <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
   
 	
+
+<item>
+<title>[COLOR orange] ARENAVISION [/COLOR]</title>
+ 
+<link>$doregex[makelist]</link>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR pink] [makelist.param3] [/COLOR][COLOR orange] [makelist.param2] [makelist.param4][/COLOR] [COLOR blue][makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=Ryu</link>
+<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://www.acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<tem>
+<title>[COLOR red]CANALES ACESTREAMS[/COLOR] [COLOR white](CLICAR AQUI)[/COLOR]</title>
+<thumbnail>http://tecnolengua2esob.opennemas.com/media//tecnolengua2esob/sections/radioconsolacion.com.R769HKrL2vsAfPHEii1aJexrUTOqYLbS2ot76pIg56dkPZPuX9.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/wDBwPqQt</externallink>
+<fanart>http://www.imdsg.es/wp-content/uploads/fondo.jpg</fanart>
+</item>
+
+	
 </item>
 
