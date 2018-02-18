@@ -40,7 +40,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title> [COLOR white] [makelist.param1] - Canal [makelist.param2][/COLOR]</title>
+<item><title> [COLOR white] [makelist.param1] - [/COLOR][COLOR gold] Canal [makelist.param2][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Canal + [makelist.param2]</link>
 			<regex>
 			<name>hash</name> 
