@@ -2,11 +2,13 @@
 <SetViewMode>504</SetViewMode>
 
 
-
+<!--
 <item>
   <title>[COLOR gold]Real Madrid vs PSG[/COLOR]</title>
   <link>plugin://program.plexus/?url=aed7c6a05565d8f8a57c0e6f101a04fb89743253&amp;mode=1&amp;name=Arenavision ACE1</link>
 </item>
+-->
+
 
 <item>
   <title>[COLOR gold] DEPORTES (Arenavisión)[/COLOR] </title>
@@ -17,6 +19,16 @@
   <info>[COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos.[/COLOR]</info>
 </item>	
 
+<!--
+<item>
+  <title>[COLOR gold] DEPORTES (Arenavisión)[/COLOR] </title>
+  <link>http://ignorame</link>
+  <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
+  <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
+  <externallink>https://github.com/Frange/test/raw/master/xml/arena18ga.xml</externallink>
+  <info>[COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos.[/COLOR]</info>
+</item>	
+-->
 
 
 
