@@ -73,13 +73,20 @@
 
 
 
+<channel>
+<items>
 <item>
-<title>[COLOR deepskyblue][B]•[/B][/COLOR][COLOR red][B]RADIO TH[/B][/COLOR]</title>
+<title>[COLOR deepskyblue][B]•[/B][/COLOR][COLOR red][B]TEST[/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://github.com/Frange/test/raw/master/jm.m3u</externallink>
 <thumbnail>https://s11.postimg.org/thmlpy4zn/radio.png</thumbnail>
 </item>
 
+</items>
+</channel>
+		
+		
+		
 <item>
   <title>[COLOR red] PRUEBAS (No entrar)[/COLOR] </title>
   <link>http://ignorame</link>
