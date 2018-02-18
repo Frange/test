@@ -30,7 +30,6 @@
   <externallink>https://github.com/Frange/test/raw/master/xml/arena18ga.xml</externallink>
   <info>[COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos.[/COLOR]</info>
 </item>	
--->
 
 <item>
   <title>[COLOR gold] DEPORTES - Nuevos canales[/COLOR] </title>
@@ -41,6 +40,7 @@
   <info>[COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos.[/COLOR]</info>
 </item>	
 
+-->
 <item>
 <title>[COLOR gold] DEPORTES - (POR PARTIDOS) [/COLOR]</title>
 <link>$doregex[makelist]</link>
