@@ -32,7 +32,14 @@
 </item>	
 -->
 
-
+<item>
+  <title>[COLOR gold] DEPORTES - Canales de Arenavisión RENOVADO[/COLOR] </title>
+  <link>http://ignorame</link>
+  <thumbnail>https://raw.githubusercontent.com/Frange/test/master/images/acestreams.jpg</thumbnail>
+  <fanart>https://raw.githubusercontent.com/Frange/test/master/images/fanart.jpg</fanart>
+  <externallink>https://github.com/Frange/test/raw/master/xml/arenaFIJOS.xml</externallink>
+  <info>[COLOR white]Canales de Arenavisión para ver todo tipo de eventos deportivos.[/COLOR]</info>
+</item>	
 
 <item>
 <title>[COLOR gold] DEPORTES - (POR PARTIDOS) [/COLOR]</title>
