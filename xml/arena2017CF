@@ -1,0 +1,490 @@
+
+<item>
+  <title>[COLOR gold]Arenavision 1[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/01?wdsdoiwhaslavdc</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av1.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 2[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/02?dfickjecasinae</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av2.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 3[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/03?dieuhdewuiskjcd</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av3.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 4[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/04?diewysgbfeiakj</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av4.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 5[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/05?ieagsjkeadicgsbaec</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av5.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 6[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/06?eisuhewid3wq</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av6.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 7[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/07?eidwsaxowjflcd</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av7.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 8[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/08?e37iwduhdweocsh</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av8.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 9[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/09?feuhewfciukeca</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av9.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 10[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/10?eiuhkwefscidkjbcd</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av10.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 11[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/11?ikdacscidkjbcsdz</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av11.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 12[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/12?wfiuhfweciukacz</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av12.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 13[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/13?fqiuhfqiecujk</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av13.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 14[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/14?aiksbjewusdcjacz</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av14.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 15[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/15?wediuwefcsdkj</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av15.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 16[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/16?wfeicukjwefcdbk</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av16.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 17[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/17?eiukjscdikbjfewc</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av17.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 18[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/18?wefdickewfscduikjcea</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av18.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 19[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/19?fweicukjwefcdikbjacd</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av19.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 20[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/20?wfecuihwefcosih</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av20.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 21[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/21?fweciuhwefcad</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av21.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 22[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/22?cdedaslkefwcdzadv</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av22.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 23[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/23?wfiukjwefcdkjscd</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av23.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 24[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/24?eicgjfsvdcjkbsdcz</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av24.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 25[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/25?wfeiuhwefsicb</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av25.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 26[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/26?fweicguf3cweouh</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av26.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 27[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/27?frnnv4cwdqe</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av27.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 28[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/28?hwbdnxol</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av28.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 29[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/29?fweiuckfewcuh</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av29.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 30[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/30?uhefkscduhkjnwefs</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av30.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 31[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/31?fwiuskfewcsdu</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av31.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 32[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/32?dscikuefscd</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av32.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 33[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/33?fwiuwfecsiukfewc</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av33.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 34[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/34?fdsiuhjsvdzcsdvzdsv</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av34.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR gold]Arenavision 35[/COLOR]</title>
+  <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Arenavision ACE1</link>
+  <regex>
+    <name>hash</name>
+    <expres>this.loadPlayer\("(.*?)"</expres>
+    <page>http://arenavision2017.cf/35?wieucjkeaeca</page>
+    <referer>http://arenavision2017.cf</referer>
+    <setcookie>beget=begetok</setcookie>
+    <thumbnail>http://www.sboeasy.com/assets/images/channel_mini_logo/av35.png</thumbnail>
+    <fanart></fanart>
+  </regex>
+</item>
