@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <SetViewMode>504</SetViewMode>
 
-
 <item>
-  <title>[COLOR gold]Arenavision Canal 1 - MADRID - ROMA[/COLOR]</title>
-  <link>plugin://program.plexus/?url=6a703df0f20ce6b041b1729d18722a3a131604ca&amp;mode=1&amp;name=Arenavision</link>
+  <title>[COLOR gold]Arenavision Canal MADRID[/COLOR]</title>
+  <link>plugin://program.plexus/?url=b0ab000e277b6465107f353df09b4ac75af8d38d&amp;mode=1&amp;name=Arenavision</link>
 </item>
 
 
