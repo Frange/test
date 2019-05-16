@@ -1,0 +1,9 @@
+{
+	"app_id": "com.gneis.bankinter.broker",
+	"url_store": "https://play.google.com/store/apps/details?id=com.gneis.bankinter.broker",
+	"versions": [{
+		"version": "2.9.16",
+		"action": "update_recomended",
+		"message": "Tiene disponible una nueva versiÃ³n de la aplicaciÃ³n"
+	}
+}
