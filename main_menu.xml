@@ -3,15 +3,20 @@
 
 <item>
   <title>[COLOR gold]Arenavision Canal MADRID [/COLOR]</title>
-  <link>plugin://program.plexus/?url=4d7ab811d88dda63466f7ae4ce1cfc6f811e2ad0&amp;mode=1&amp;name=Arenavision</link>
+  <link>plugin://program.plexus/?url=cf04ce09d0d8d42de8a833ee1b0e9e3e28fa3576&amp;mode=1&amp;name=Arenavision</link>
 </item>
 
 
 <item>
   <title>[COLOR gold]Arenavision Canal MADRID 2[/COLOR]</title>
-  <link>plugin://program.plexus/?url=9a41b26230bf61dbc28d182561f2cfe12615617f&amp;mode=1&amp;name=Arenavision</link>
+  <link>plugin://program.plexus/?url=ed4460fd1c037c54be4e787c4fd64510fdd6f1b3&amp;mode=1&amp;name=Arenavision</link>
 </item>
 
+
+<item>
+  <title>[COLOR gold]Arenavision Canal MADRID 3[/COLOR]</title>
+  <link>plugin://program.plexus/?url=403cb156006c064dd693eb2a1eb73a580b43d095&amp;mode=1&amp;name=Arenavision</link>
+</item>
 
 <!--
 <item>
