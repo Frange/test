@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <SetViewMode>504</SetViewMode>
 
+<item>
+  <title>[COLOR gold]Arenavision Canal MADRID jm22[/COLOR]</title>
+  <link>plugin://program.plexus/?url=42f9ab94f7d7142a46a3e9315a61c0d7f4ad0610&amp;mode=1&amp;name=Arenavision</link>
+</item>
 
 <item>
   <title>[COLOR gold]Arenavision Canal MADRID a-[/COLOR]</title>
